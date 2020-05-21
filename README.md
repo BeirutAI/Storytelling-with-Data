@@ -1,4 +1,5 @@
 # Storytelling-with-Data
 
+Extracting insights from data and building an interactive dashboard
 
-![](images/Covid-19 Final Output.jpg)
+![](images/Covid19.jpg)
